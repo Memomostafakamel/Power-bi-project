@@ -15,7 +15,7 @@ The dashboards highlight key performance metrics and trends to support business 
 ## Dashboard Previews  
 
 ### Dark Mode  
-![Dark Dashboard](dashboard-dark.png)  
+![Dark Dashboard](Sales dashboard dark mode.png)  
 
 ### Light Mode  
 ![Light Dashboard](dashboard-light.png)  
