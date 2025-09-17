@@ -10,18 +10,6 @@ This project includes *7 interactive Power BI dashboards* built with:
 
 The dashboards highlight key performance metrics and trends to support business analysis.  
 
----
-
-## Dashboard Previews  
-
-### Dark Mode  
-![Dark Dashboard](Sales dashboard dark mode.png)  
-
-### Light Mode  
-![Light Dashboard](dashboard-light.png)  
-
----
-
 ## Files in this repository
 - *Raw & cleaned data*  
 - *Power BI file (.pbix)*  
